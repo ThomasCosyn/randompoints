@@ -2,3 +2,5 @@
 - Random day
 - Random week end
 - Random week
+- CI/CD
+- Configurer CloudWatch

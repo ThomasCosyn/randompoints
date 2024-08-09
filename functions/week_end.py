@@ -7,7 +7,6 @@ from datetime import datetime
 # Modif fichier source
 # Lambda lecture
 # Lambda modif
-# Déployer
 
 def generate_weekend_program():
     """
