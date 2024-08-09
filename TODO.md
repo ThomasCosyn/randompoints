@@ -1,0 +1,4 @@
+- Lambda function allumer / éteindre EC2
+- Random day
+- Random week end
+- Random week
